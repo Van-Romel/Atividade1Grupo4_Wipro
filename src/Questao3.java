@@ -12,6 +12,8 @@ public class Questao3 {
 
         simplePrint(enunciado + "\n \n \n");
         Thread.sleep(2000);
+        simplePrint("Projeto desenvolvido por: Aleff Trajano, Mauro Neto, Roberto Brito e Van-Romel Neto." + "\n \n \n");
+        Thread.sleep(2000);
 
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
